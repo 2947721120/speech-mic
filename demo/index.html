@@ -20,8 +20,10 @@
       <h3>Basic speech-mic Demo</h3>
       <p>Simpelste Variante der Nutzung. Nach einem erkannten Wort / Satz wird die Aufnahmefunktion beendet</p>
       <demo-snippet>
-        <template>
+        <template is="dom-bind">
           <speech-mic transcript="{{transcript}}"></speech-mic>
+          <br><br><br><br>
+          {{transcript}}
         </template>
       </demo-snippet>
     </div>

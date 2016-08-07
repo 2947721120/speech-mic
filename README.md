@@ -1,6 +1,6 @@
 # \<speech-mic\>
 
-
+[DEMO](https://veith.github.io/speech-mic/components/speech-mic/)
 
 ## Install the Polymer-CLI
 
