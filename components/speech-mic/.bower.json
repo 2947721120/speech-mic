@@ -1,0 +1,24 @@
+{
+  "name": "speech-mic",
+  "main": "speech-mic.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/veith/speech-mic",
+  "_release": "5c7bf61afc",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5c7bf61afcc205d8d6c415fcb3387d93fe6e4bab"
+  },
+  "_source": "git://github.com/veith/speech-mic.git",
+  "_target": "master",
+  "_originalSource": "veith/speech-mic",
+  "_direct": true
+}
